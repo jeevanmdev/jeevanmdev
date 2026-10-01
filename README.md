@@ -1,48 +1,100 @@
-# Jeevan M
+<div align="center">
 
-**Developer • Builder • Student**
+<img src="./assets/hero.svg" alt="Jeevan M — Developer, Builder, Student" width="100%">
 
-I build software, experiment with AI, and work on tools that make my workflow faster and more capable.
+<a href="https://jeevan.gt.tc">Website</a> · <a href="https://github.com/jeevanmdev">GitHub</a> · <a href="https://github.com/jeevanmdev/Project-NeuroNest">NeuroNest</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> initializing jeevanmdev...`
+
+<img src="./assets/terminal.svg" alt="Animated developer terminal" width="760">
+
+</div>
+
+## About
+
+I'm a developer, builder, and student interested in software engineering, artificial intelligence, developer tooling, and systems.
+
+I like understanding how things work and building useful systems from the ground up.
 
 ## Currently Building
 
-* **STARK OS** — a personal AI-powered development and productivity system
-* Developer tooling and automation
-* Experiments with AI agents, local infrastructure, and developer workflows
+<div align="center">
+<img src="./assets/stark-os.svg" alt="STARK OS" width="760">
+</div>
 
-## Tech Stack
+**STARK OS** is a personal AI-powered development and productivity system focused on intelligent tooling, automation, and an integrated developer workflow.
 
-**Languages**
+## Stack
 
-* Java
-* Python
-* Go
-* JavaScript / TypeScript
+<table><tr><td valign="top" width="50%">
 
-**Development**
+### Languages
 
-* Git & GitHub
-* VS Code
-* Docker
-* macOS
-* Linux
+- Java
+- Python
+- Go
+- JavaScript / TypeScript
 
-**AI & Developer Tools**
+</td><td valign="top" width="50%">
 
-* Gemini
-* Claude
-* OpenAI
-* GitHub CLI
-* MCP
+### Development
+
+- Git & GitHub
+- VS Code
+- Docker
+- macOS
+- Linux
+
+</td></tr><tr><td valign="top">
+
+### AI
+
+- Gemini
+- Claude
+- OpenAI
+- MCP
+
+</td><td valign="top">
+
+### Workflow
+
+- GitHub CLI
+- Automation
+- Developer tooling
+- AI-assisted development
+
+</td></tr></table>
 
 ## Projects
 
-More projects coming as they reach a publishable state.
+<div align="center">
+<img src="./assets/projects.svg" alt="Featured project: NeuroNest" width="760">
+</div>
 
-## GitHub
+### NeuroNest
 
-I use GitHub for source control, project development, documentation, and collaboration.
+An AI-powered student-assistant concept designed around academic intelligence, planning, and staying on track.
 
-## Website
+## Activity
 
-[jeevan.gt.tc](https://jeevan.gt.tc)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanmdev&hide_border=true&area=true" alt="Jeevan M GitHub activity graph" width="760">
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/jeevanmdev">GitHub</a> · <a href="https://jeevan.gt.tc">jeevan.gt.tc</a>
+
+<br><br>
+
+`BUILD • LEARN • ITERATE`
+
+</div>
